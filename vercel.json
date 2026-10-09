@@ -1,0 +1,1 @@
+{ "rewrites": [{ "source": "/uploads/:path*", "destination": "/api/uploads/:path*" }, { "source": "/t/:id", "destination": "/api/share/:id" }] }
